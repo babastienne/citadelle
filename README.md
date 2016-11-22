@@ -23,7 +23,7 @@ Une documentation en Javadoc est disponnible et permet d'avoir une indication su
 Un diagramme UML a également été généré. Il est visible et éditable via le plugin eclipse ObjectAid UML.
 Ci-dessous une version png du diagramme :
 
-<img src="doc/uml.png">
+<img src="citadelles/doc/uml.png">
 
 ## IHM
 
