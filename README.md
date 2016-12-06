@@ -18,7 +18,7 @@ Le jeu se déroule entièrement via une saisie des différents utilisateurs via 
 
 ## Documentation
 
-Une documentation en Javadoc est disponnible et permet d'avoir une indication sur l'utilisation et les appekls possibles pour chaque classe implémentée.
+Une documentation en Javadoc est disponnible et permet d'avoir une indication sur l'utilisation et les appels possibles pour chaque classe implémentée.
 
 Un diagramme UML a également été généré. Il est visible et éditable via le plugin eclipse ObjectAid UML.
 Ci-dessous une version png du diagramme :
